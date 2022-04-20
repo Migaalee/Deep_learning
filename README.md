@@ -1,2 +1,2 @@
 # Deep_learning
-Deep learning (Tenserflow and Keras). Python
+Deep learning (Tensorflow and Keras). Python
